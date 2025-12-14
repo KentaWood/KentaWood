@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander Wood</h1>
-<h3 align="center">A Developer working @ Sound Data science & Sharper Info</h3>
+<h3 align="center">A Developer working @ Sound Data Science & Sharper Info</h3>
 
 - 📫 How to reach me **kentaro.wood03@gmail.com**
 
